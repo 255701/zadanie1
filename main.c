@@ -47,6 +47,6 @@ int main(void) {
         printf("%d ", tablica[i]);
     }
 
-
+s
     return 0;
 }

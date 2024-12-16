@@ -1,10 +1,10 @@
 #include <stdio.h>
 int policz(int a, int b){
-  return a + b;
+  return a * b;
 }
 
 int main(){
 
-     printf("W pierwszym branchu %d\n", policz(5, 10));
+     printf("W drugim branchu %d\n", policz(5, 10));
   return 0;
 }
